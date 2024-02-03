@@ -7,7 +7,7 @@ https://github.com/Codershiter/Eternety-PREMIUM/assets/158686563/9cc8ff29-b115-4
 #   🇮  🇳  🇫  🇴  🇷  🇲  🇦  🇹  🇮  🇴  🇳 💬
 
 * Turn off antivirus and try agian
-- Install Java64 
-- Open Eternety
+* Install Java64 
+* Open Eternety
 
 
